@@ -89,7 +89,7 @@ resource "aws_route_table" "prirt" {
   }
 
   tags = {
-    Name = "MY-VPD-PRI-RT"
+    Name = "MY-VPC-PRI-RT"
   }
 } 
 
